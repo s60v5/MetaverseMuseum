@@ -25,3 +25,7 @@ A - A tour guide holding a piece of paper and introducing the rock\
 I - A toursit listening / talking to the tour guide\
 W - Two happy people (probably a couple) holding their hands\
 A & N - I think both represent grandmas hugging children
+
+### TODO
+
+There are some old scripts like *Example* or *WallCollision* that we wrote during our classes, these scripts can be removed in future as they are no longer needed.
