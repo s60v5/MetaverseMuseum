@@ -12,14 +12,6 @@ In terms of the design of the exhibition area I think it’s best to keep it sim
 
 ![Work 1](https://raw.githubusercontent.com/s60v5/MetaverseMuseum/master/Assets/Work%201.jpeg)
 
-**Huang Jin-Ling - 之乎者也 (zhī hū zhě yě)**
-
-之乎者也 is an idiom in Chinese, all four charachters in this idiom are also the most used characters in the Chinese ancient literature. In this work, Huang Jin-Ling is trying to criticize artists and literates for being too pedantic about using too many archaisms, which eventually makes their articles or poems hard to understand. On another hand, the idiom 之乎者也 also means “a language that is too complicated or chaotic”. All of this makes this work a little contradicting given the fact that Huang Jin-Ling wrote quite a long text in the bottom left explaining the meaning behind this work (he was probably afraid of people not getting his intention). 
-
-### Selected work #2
-
-![Work 2](https://raw.githubusercontent.com/s60v5/MetaverseMuseum/master/Assets/Work%202.png)
-
 **Xu Yong-Jin - “TAIWAN”**
 
 6 letters, if we put all of them together we can see a typical sightseeing situation from the Yeliu Park in Xinbei, Taiwan:
@@ -29,6 +21,14 @@ A - A tour guide holding a piece of paper and introducing the rock\
 I - A toursit listening / talking to the tour guide\
 W - Two happy people (probably a couple) holding their hands\
 A & N - I think both represent grandmas hugging children
+
+### Selected work #2
+
+![Work 2](https://raw.githubusercontent.com/s60v5/MetaverseMuseum/master/Assets/Work%202.png)
+
+**Huang Jin-Ling - 之乎者也 (zhī hū zhě yě)**
+
+之乎者也 is an idiom in Chinese, all four charachters in this idiom are also the most used characters in the Chinese ancient literature. In this work, Huang Jin-Ling is trying to criticize artists and literates for being too pedantic about using too many archaisms, which eventually makes their articles or poems hard to understand. On another hand, the idiom 之乎者也 also means “a language that is too complicated or chaotic”. All of this makes this work a little contradicting given the fact that Huang Jin-Ling wrote quite a long text in the bottom left explaining the meaning behind this work (he was probably afraid of people not getting his intention). 
 
 ### TODO
 
