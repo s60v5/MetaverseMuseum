@@ -10,7 +10,7 @@ In terms of the design of the exhibition area I think it’s best to keep it sim
 
 ### Selected work #1
 
-![Work 1](https://github.com/s60v5/MetaverseMuseum/blob/master/Assets/Work 1.jpeg?raw=true)
+![Work 1](https://raw.githubusercontent.com/s60v5/MetaverseMuseum/master/Assets/Work%201.jpeg)
 
 **Huang Jin-Ling - 之乎者也 (zhī hū zhě yě)**
 
@@ -18,7 +18,7 @@ In terms of the design of the exhibition area I think it’s best to keep it sim
 
 ### Selected work #2
 
-![Work 2](https://github.com/s60v5/MetaverseMuseum/blob/master/Assets/Work 2.png?raw=true)
+![Work 2](https://raw.githubusercontent.com/s60v5/MetaverseMuseum/master/Assets/Work%202.png)
 
 **Xu Yong-Jin - “TAIWAN”**
 
