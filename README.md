@@ -20,8 +20,8 @@ In terms of the design of the exhibition area I think it’s best to keep it sim
 
 6 letters, if we put all of them together we can see a typical sightseeing situation from the Yeliu Park in Xinbei, Taiwan:
 
-T - Shape of a rock from the Yeliu Park in Xinbei 
-A - A tour guide holding a piece of paper and introducing the rock 
-I - A toursit listening / talking to the tour guide
-W - Two happy people (probably a couple) holding their hands
+T - Shape of a rock from the Yeliu Park in Xinbei\
+A - A tour guide holding a piece of paper and introducing the rock\
+I - A toursit listening / talking to the tour guide\
+W - Two happy people (probably a couple) holding their hands\
 A & N - I think both represent grandmas hugging children
