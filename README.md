@@ -33,3 +33,8 @@ A & N - I think both represent grandmas hugging children
 ### TODO
 
 There are some old scripts like *Example* or *WallCollision* that we wrote during our classes, these scripts can be removed in future as they are no longer needed.
+
+### Assets Source
+
+[Sound Effects - Mixkit.co](https://mixkit.co/)
+[3D Props - Unity Assets Marketplace](https://assetstore.unity.com)
