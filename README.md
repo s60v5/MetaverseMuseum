@@ -30,11 +30,12 @@ A & N - I think both represent grandmas hugging children
 
 之乎者也 is an idiom in Chinese, all four charachters in this idiom are also the most used characters in the Chinese ancient literature. In this work, Huang Jin-Ling is trying to criticize artists and literates for being too pedantic about using too many archaisms, which eventually makes their articles or poems hard to understand. On another hand, the idiom 之乎者也 also means “a language that is too complicated or chaotic”. All of this makes this work a little contradicting given the fact that Huang Jin-Ling wrote quite a long text in the bottom left explaining the meaning behind this work (he was probably afraid of people not getting his intention). 
 
-### TODO
-
-There are some old scripts like *Example* or *WallCollision* that we wrote during our classes, these scripts can be removed in future as they are no longer needed.
-
 ### Assets Source
 
 [Sound Effects - Mixkit.co](https://mixkit.co/)
+
+[Sound Effects - Story Blocks](https://www.storyblocks.com)
+
 [3D Props - Unity Assets Marketplace](https://assetstore.unity.com)
+
+### FCU 2023
